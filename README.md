@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
@@ -23,6 +24,7 @@
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sadwi18/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -40,6 +42,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sadwi18/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [3903-smallest-stable-index-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
