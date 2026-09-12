@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sadwi18/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1795-rearrange-products-table](https://github.com/sadwi18/leetcode-solutions/tree/master/1795-rearrange-products-table) |
 ## Two Pointers
 |  |
 | ------- |
