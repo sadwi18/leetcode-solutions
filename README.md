@@ -1,4 +1,9 @@
 # leetcode-solutions
+My solutions to LeetCode problems, covering Data Structures, Algorithms, Database, and problem-solving patterns.
+## Languages Used
+- C++
+- Python
+- SQL
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
