@@ -26,6 +26,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sadwi18/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -68,5 +69,6 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sadwi18/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
