@@ -16,6 +16,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadwi18/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -85,9 +86,14 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
