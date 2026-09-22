@@ -47,6 +47,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sadwi18/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/sadwi18/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sadwi18/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -118,6 +119,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/sadwi18/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3174-clear-digits](https://github.com/sadwi18/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/sadwi18/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -134,6 +136,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | ------- |
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/sadwi18/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sadwi18/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
