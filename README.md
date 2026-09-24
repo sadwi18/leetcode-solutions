@@ -55,6 +55,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [3875-construct-uniform-parity-array-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [4020-elevator-requests-i](https://github.com/sadwi18/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [2073-time-needed-to-buy-tickets](https://github.com/sadwi18/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [3174-clear-digits](https://github.com/sadwi18/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/sadwi18/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [4020-elevator-requests-i](https://github.com/sadwi18/leetcode-solutions/tree/master/4020-elevator-requests-i) |
 ## Linked List
 |  |
 | ------- |
