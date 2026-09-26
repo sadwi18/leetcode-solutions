@@ -52,6 +52,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1991-find-the-middle-index-in-array](https://github.com/sadwi18/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sadwi18/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadwi18/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -73,12 +74,14 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/sadwi18/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sadwi18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadwi18/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sadwi18/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
