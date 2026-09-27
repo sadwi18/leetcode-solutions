@@ -44,6 +44,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/sadwi18/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sadwi18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/sadwi18/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
@@ -84,6 +85,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sadwi18/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sadwi18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
