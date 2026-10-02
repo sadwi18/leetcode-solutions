@@ -47,6 +47,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/sadwi18/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sadwi18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0303-range-sum-query-immutable](https://github.com/sadwi18/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/sadwi18/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -78,6 +79,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/sadwi18/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/sadwi18/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
@@ -153,6 +155,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sadwi18/leetcode-solutions/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/sadwi18/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/sadwi18/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
