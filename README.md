@@ -151,12 +151,14 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sadwi18/leetcode-solutions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/sadwi18/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0707-design-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/sadwi18/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
