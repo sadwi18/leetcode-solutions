@@ -41,6 +41,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sadwi18/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sadwi18/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -72,6 +73,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sadwi18/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -105,6 +107,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sadwi18/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sadwi18/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
