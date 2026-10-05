@@ -113,6 +113,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0027-remove-element](https://github.com/sadwi18/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0876-middle-of-the-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sadwi18/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sliding Window
 |  |
@@ -158,6 +159,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | ------- |
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
