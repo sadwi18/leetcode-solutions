@@ -157,6 +157,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sadwi18/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0707-design-linked-list) |
@@ -191,5 +192,6 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sadwi18/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
