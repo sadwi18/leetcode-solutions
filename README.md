@@ -157,6 +157,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -187,4 +188,8 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/sadwi18/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
