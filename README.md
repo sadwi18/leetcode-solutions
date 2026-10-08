@@ -26,6 +26,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/sadwi18/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [1021-remove-outermost-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sadwi18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadwi18/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -133,6 +134,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/sadwi18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sadwi18/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sadwi18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -147,6 +149,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
