@@ -105,6 +105,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Database
 |  |
 | ------- |
+| [1280-students-and-examinations](https://github.com/sadwi18/leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sadwi18/leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/1587-bank-account-summary-ii) |
 | [1795-rearrange-products-table](https://github.com/sadwi18/leetcode-solutions/tree/master/1795-rearrange-products-table) |
