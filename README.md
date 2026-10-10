@@ -15,6 +15,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/sadwi18/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0763-partition-labels](https://github.com/sadwi18/leetcode-solutions/tree/master/0763-partition-labels) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sadwi18/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## String
@@ -26,6 +27,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0649-dota2-senate](https://github.com/sadwi18/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/sadwi18/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sadwi18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -41,6 +43,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/sadwi18/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [0763-partition-labels](https://github.com/sadwi18/leetcode-solutions/tree/master/0763-partition-labels) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +121,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sadwi18/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0763-partition-labels](https://github.com/sadwi18/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sadwi18/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sliding Window
