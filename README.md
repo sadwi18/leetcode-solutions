@@ -34,6 +34,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadwi18/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1678-goal-parser-interpretation](https://github.com/sadwi18/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3174-clear-digits](https://github.com/sadwi18/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/sadwi18/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
