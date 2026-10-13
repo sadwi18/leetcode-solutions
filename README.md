@@ -66,6 +66,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0739-daily-temperatures](https://github.com/sadwi18/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sadwi18/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/sadwi18/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1991-find-the-middle-index-in-array](https://github.com/sadwi18/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sadwi18/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -133,6 +134,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sadwi18/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadwi18/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/sadwi18/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
