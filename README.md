@@ -47,6 +47,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0649-dota2-senate](https://github.com/sadwi18/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0763-partition-labels](https://github.com/sadwi18/leetcode-solutions/tree/master/0763-partition-labels) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sadwi18/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [2367-number-of-arithmetic-triplets](https://github.com/sadwi18/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadwi18/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sadwi18/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sadwi18/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -89,6 +91,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sadwi18/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
