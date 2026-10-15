@@ -20,6 +20,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sadwi18/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sadwi18/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [2073-time-needed-to-buy-tickets](https://github.com/sadwi18/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sadwi18/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sadwi18/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadwi18/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sadwi18/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -232,4 +234,12 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sadwi18/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sadwi18/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
