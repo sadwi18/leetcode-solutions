@@ -68,6 +68,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/sadwi18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sadwi18/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/sadwi18/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sadwi18/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/sadwi18/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
@@ -88,6 +89,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/sadwi18/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
