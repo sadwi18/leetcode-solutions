@@ -24,6 +24,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sadwi18/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/sadwi18/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sadwi18/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
@@ -51,6 +52,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sadwi18/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3174-clear-digits](https://github.com/sadwi18/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/sadwi18/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -261,6 +263,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sadwi18/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/sadwi18/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
