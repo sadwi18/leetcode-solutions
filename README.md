@@ -12,6 +12,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sadwi18/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/sadwi18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sadwi18/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -32,6 +33,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0020-valid-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sadwi18/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/sadwi18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sadwi18/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -254,6 +256,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/sadwi18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sadwi18/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
