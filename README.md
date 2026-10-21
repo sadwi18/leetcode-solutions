@@ -73,6 +73,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/sadwi18/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadwi18/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sadwi18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sadwi18/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sadwi18/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -107,6 +108,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadwi18/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sadwi18/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sadwi18/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -124,6 +126,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | ------- |
 | [0066-plus-one](https://github.com/sadwi18/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sadwi18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadwi18/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadwi18/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
