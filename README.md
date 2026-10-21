@@ -18,6 +18,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0496-next-greater-element-i](https://github.com/sadwi18/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0763-partition-labels](https://github.com/sadwi18/leetcode-solutions/tree/master/0763-partition-labels) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sadwi18/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -38,6 +39,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0763-partition-labels](https://github.com/sadwi18/leetcode-solutions/tree/master/0763-partition-labels) |
 | [1021-remove-outermost-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sadwi18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sadwi18/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sadwi18/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -77,6 +79,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0682-baseball-game](https://github.com/sadwi18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sadwi18/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sadwi18/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sadwi18/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/sadwi18/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
@@ -251,6 +254,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Counting
 |  |
 | ------- |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sadwi18/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
