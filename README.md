@@ -12,6 +12,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sadwi18/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sadwi18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/sadwi18/leetcode-solutions/tree/master/0409-longest-palindrome) |
@@ -75,6 +76,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0150-evaluate-reverse-polish-notation](https://github.com/sadwi18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0303-range-sum-query-immutable](https://github.com/sadwi18/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/sadwi18/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -106,6 +108,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sadwi18/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0875-koko-eating-bananas](https://github.com/sadwi18/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sadwi18/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -113,6 +116,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | ------- |
 | [0015-3sum](https://github.com/sadwi18/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadwi18/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -156,6 +160,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sadwi18/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/sadwi18/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/sadwi18/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
