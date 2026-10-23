@@ -13,6 +13,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0013-roman-to-integer](https://github.com/sadwi18/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sadwi18/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0229-majority-element-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sadwi18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -78,6 +79,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0066-plus-one](https://github.com/sadwi18/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sadwi18/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0229-majority-element-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/sadwi18/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/sadwi18/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -119,6 +121,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | ------- |
 | [0015-3sum](https://github.com/sadwi18/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sadwi18/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -268,6 +271,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/sadwi18/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/sadwi18/leetcode-solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -286,4 +290,8 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
