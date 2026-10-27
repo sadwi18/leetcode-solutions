@@ -35,6 +35,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sadwi18/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sadwi18/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sadwi18/leetcode-solutions/tree/master/0058-length-of-last-word) |
@@ -71,6 +72,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sadwi18/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sadwi18/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/sadwi18/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/sadwi18/leetcode-solutions/tree/master/0031-next-permutation) |
@@ -298,4 +300,8 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/sadwi18/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sadwi18/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
