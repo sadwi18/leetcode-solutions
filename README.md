@@ -96,6 +96,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1004-max-consecutive-ones-iii](https://github.com/sadwi18/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sadwi18/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadwi18/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sadwi18/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1652-defuse-the-bomb](https://github.com/sadwi18/leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -204,6 +205,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1021-remove-outermost-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sadwi18/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadwi18/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3174-clear-digits](https://github.com/sadwi18/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
@@ -212,6 +214,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0496-next-greater-element-i](https://github.com/sadwi18/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sadwi18/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/sadwi18/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadwi18/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
