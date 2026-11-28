@@ -63,6 +63,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sadwi18/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/sadwi18/leetcode-solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sadwi18/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/sadwi18/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/sadwi18/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -214,6 +215,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sadwi18/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/sadwi18/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sadwi18/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/sadwi18/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -235,6 +237,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [0682-baseball-game](https://github.com/sadwi18/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sadwi18/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sadwi18/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/sadwi18/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/sadwi18/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/sadwi18/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/sadwi18/leetcode-solutions/tree/master/4020-elevator-requests-i) |
