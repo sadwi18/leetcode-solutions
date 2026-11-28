@@ -59,6 +59,7 @@ My solutions to LeetCode problems, covering Data Structures, Algorithms, Databas
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sadwi18/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/sadwi18/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sadwi18/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1694-reformat-phone-number](https://github.com/sadwi18/leetcode-solutions/tree/master/1694-reformat-phone-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sadwi18/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sadwi18/leetcode-solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/sadwi18/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
